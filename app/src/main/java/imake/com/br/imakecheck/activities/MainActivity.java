@@ -1,7 +1,9 @@
-package imake.com.br.imakecheck;
+package imake.com.br.imakecheck.activities;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import imake.com.br.imakecheck.R;
 
 public class MainActivity extends AppCompatActivity {
 
